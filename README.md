@@ -1,5 +1,5 @@
 # CHIS
 --------
 
-This folder contains code for the CHIS exercise
+This folder contains code Interactive Exercises: Data Visualization with ggplot2 | Part 2
 * Code: CHIS.R
